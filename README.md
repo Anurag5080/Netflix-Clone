@@ -1,1 +1,1 @@
-# Netflix-Clone
+Durig an virtual internship program offered by Bharat Intern in my first year they give me a task to make a clone of Netflix, so through my knowledge of CSS and HTML i have designed this. As it's only static webpage and we dosen't have to add any fetaure or any interaction based web page so this project dosen't have a use of Javascript. Hope you'all like that..
